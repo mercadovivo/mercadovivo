@@ -1,1 +1,15 @@
-
+<svg width="320" height="64" viewBox="0 0 320 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .brand { font: 700 28px system-ui, -apple-system, "Segoe UI", Roboto, Inter, "Helvetica Neue", Arial, sans-serif; }
+    .tag   { font: 600 12px system-ui, -apple-system, "Segoe UI", Roboto, Inter, "Helvetica Neue", Arial, sans-serif; letter-spacing:.06em; }
+  </style>
+  <g transform="translate(4,10)">
+    <rect x="1" y="8" width="38" height="20" rx="4" stroke="#0D6EFD" stroke-width="2.2"></rect>
+    <circle cx="12" cy="32" r="4" fill="#0D6EFD"></circle>
+    <circle cx="30" cy="32" r="4" fill="#16A34A"></circle>
+    <path d="M5 18 L13 18 L16 14 L19 22 L22 18 L35 18" stroke="#16A34A" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"></path>
+    <path d="M1 8 C1 4 4 1 8 1 H14" stroke="#0D6EFD" stroke-width="2.2" stroke-linecap="round"></path>
+  </g>
+  <text class="brand" x="64" y="36" fill="#0D6EFD">Mercado <tspan fill="#16A34A">Vivo</tspan></text>
+  <text class="tag" x="66" y="50" fill="#6B7280">AGENT</text>
+</svg>
